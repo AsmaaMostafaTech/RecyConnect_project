@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/recyconnect.git"
+    "url": "https://github.com/AsmaaMostafaTech/RecyConnect_project.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/recyconnect/issues"
+    "url": "https://github.com/AsmaaMostafaTech/RecyConnect_project/issues"
   },
-  "homepage": "https://github.com/yourusername/recyconnect#readme",
+  "homepage": "https://github.com/AsmaaMostafaTech/RecyConnect_project#readme",
   "dependencies": {
     "body-parser": "^2.2.1",
     "express": "^5.1.0",
